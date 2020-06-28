@@ -1,6 +1,6 @@
-# Cookenu :rocket:
+# Cookenu :spaghetti:
 
-## Descrição
+## Descrição :hamburger:
 
 Esse produto nada mais é do que uma rede social, na qual os usuários podem dividir informações relevantes sobre comidas e receitas que tenham experimentado. Ela possui todas as funcionalidades mais comuns em redes sociais:
 
@@ -11,19 +11,19 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 
 ## Endpoints:
 
-:alien: 1. Sign Up</br>
-:alien: 2. Login</br>
-:alien: 3. Informações do próprio perfil</br>
-:alien: 4. Pegar perfil de outro usuário</br>
-:alien: 5. Criar receitas</br>
-:alien: 6. Seguir usuários</br>
-:alien: 7. Pegar receitas</br>
-:alien: 8. Deixar de seguir usuáriost</br>
-:alien: 9. Pegar feed de receitas</br> 
-:alien: 10. Editar receitas</br>
-:alien: 11. Deletar receitas</br>
-:alien: 12. Deletar usuários</br>
-:alien: 13. Refresh Token</br>
+:fork_and_knife: 1. Sign Up</br>
+:fork_and_knife: 2. Login</br>
+:fork_and_knife: 3. Informações do próprio perfil</br>
+:fork_and_knife: 4. Pegar perfil de outro usuário</br>
+:fork_and_knife: 5. Criar receitas</br>
+:fork_and_knife: 6. Seguir usuários</br>
+:fork_and_knife: 7. Pegar receitas</br>
+:fork_and_knife: 8. Deixar de seguir usuáriost</br>
+:fork_and_knife: 9. Pegar feed de receitas</br> 
+:fork_and_knife: 10. Editar receitas</br>
+:fork_and_knife: 11. Deletar receitas</br>
+:fork_and_knife: 12. Deletar usuários</br>
+:fork_and_knife: 13. Refresh Token</br>
 
 
 ### Instalando: :floppy_disk:
