@@ -28,7 +28,7 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 
 ### Instalando: :floppy_disk:
 
-git clone https://github.com/Erika-Skarda/API_LaBook_3.git
+git clone https://github.com/Erika-Skarda/API_Cookenu_2
 
 Abra pasta no terminal e digite: npm install
 
