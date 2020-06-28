@@ -15,7 +15,7 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 :alien: 2. Login</br>
 :alien: 3. Informações do próprio perfil</br>
 :alien: 4. Pegar perfil de outro usuário</br>
-:alien: 5. Criar receitas/br>
+:alien: 5. Criar receitas</br>
 :alien: 6. Seguir usuários</br>
 :alien: 7. Pegar receitas</br>
 :alien: 8. Deixar de seguir usuáriost</br>
