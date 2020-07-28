@@ -4,6 +4,13 @@
 
 Esse produto nada mais é do que uma rede social, na qual os usuários podem dividir informações relevantes sobre comidas e receitas que tenham experimentado. Ela possui todas as funcionalidades mais comuns em redes sociais:
 
+<p align="center">
+
+  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellown&style=for-the-badge&logo=JAVASCRIPT"/>
+  <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
+  <img src="https://img.shields.io/static/v1?label=node&message=language&color=green&style=for-the-badge&logo="NODE"/>
+</p>
+
 ## Link da documentação:
 
 [Postman](https://documenter.getpostman.com/view/10904258/T17AkBfd?version=latest)
