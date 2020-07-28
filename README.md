@@ -11,6 +11,7 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
   <img src="https://img.shields.io/static/v1?label=node&message=language&color=green&style=for-the-badge&logo="NODE"/>
 </p>
 
+> Status do Projeto: Concluído :heavy_check_mark: 
 ## Link da documentação:
 
 [Postman](https://documenter.getpostman.com/view/10904258/T17AkBfd?version=latest)
@@ -18,7 +19,7 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 ## Deploy
 
 <p align="justify">
-  O deploy do projeto foi realizado no firebase e encontra-se disponivel em:https://polnb1x533.execute-api.us-east-1.amazonaws.com/dev
+  O deploy do projeto foi realizado no aws e encontra-se disponivel em: https://polnb1x533.execute-api.us-east-1.amazonaws.com/dev
 </p>
 
 ## Endpoints:
