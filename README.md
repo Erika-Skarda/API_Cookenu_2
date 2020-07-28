@@ -18,7 +18,7 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 ## Deploy
 
 <p align="justify">
-  O deploy do projeto foi realizado no firebase e encontra-se disponivel em:[deploy](https://polnb1x533.execute-api.us-east-1.amazonaws.com/dev)
+  O deploy do projeto foi realizado no firebase e encontra-se disponivel em:https://polnb1x533.execute-api.us-east-1.amazonaws.com/dev
 </p>
 
 ## Endpoints:
