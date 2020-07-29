@@ -73,3 +73,10 @@ npm start
 - [uuid](https://www.uuidgenerator.net/)
 - [bcrypt](https://www.npmjs.com/package/bcryptjs)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+
+## Desenvolvedores :computer:
+
+- [Erika](https://github.com/Erika-Skarda)
+https://github.com/igordelesposti
+
+
