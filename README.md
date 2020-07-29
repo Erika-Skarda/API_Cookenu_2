@@ -79,4 +79,7 @@ npm start
 - <b>Erika</b> (https://github.com/Erika-Skarda)
 - <b>Igor</b>  (https://github.com/igordelesposti)
 
+## Contato por :octocat:
 
+| [Likedin](https://www.linkedin.com/in/erika-skarda-99915488/) | 
+| :---: |
