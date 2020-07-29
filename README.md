@@ -76,7 +76,7 @@ npm start
 
 ## Desenvolvedores :computer:
 
-- [Erika] (https://github.com/Erika-Skarda)
-- [Igor] (https://github.com/igordelesposti)
+- <b>Erika</b> (https://github.com/Erika-Skarda)
+- <b>Igor</b>  (https://github.com/igordelesposti)
 
 
