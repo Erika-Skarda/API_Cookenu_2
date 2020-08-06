@@ -11,7 +11,9 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   <img src="https://img.shields.io/static/v1?label=node&message=language&color=green&style=for-the-badge&logo="NODE"/>
 </p>
-
+  
+ </br>
+  
 > Status do Projeto: Concluído :heavy_check_mark: 
 
 ## Link da documentação :book:
