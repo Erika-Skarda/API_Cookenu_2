@@ -12,14 +12,15 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 </p>
 
 > Status do Projeto: Concluído :heavy_check_mark: 
+
 ## Link da documentação:
 
-[Postman](https://documenter.getpostman.com/view/10904258/T17AkBfd?version=latest)
+<b>[Postman](https://documenter.getpostman.com/view/10904258/T17AkBfd?version=latest)</b>
 
 ## Deploy
 
 <p align="justify">
-  O deploy do projeto foi realizado no aws e encontra-se disponivel em: https://polnb1x533.execute-api.us-east-1.amazonaws.com/dev
+  O deploy do projeto foi realizado no aws e encontra-se disponivel em: <b>https://polnb1x533.execute-api.us-east-1.amazonaws.com/dev</b>
 </p>
 
 ## Endpoints:
